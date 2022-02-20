@@ -10,7 +10,7 @@
 <img src="./resource/img/poetryList.png" width="300px">
 <img src="./resource/img/poetryDetail.png" width="300px">
 <img src="./resource/img/multiplayerGames.png" width="300px">
-<img src="./resource/img/singlegame.png" width="300px">
+<img src="./resource/img/singleGame.png" width="300px">
 <img src="./resource/img/top.png" width="300px">
 </div>
 
