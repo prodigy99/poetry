@@ -5,14 +5,14 @@
 > 古诗词问答类小程序，前端由uniapp构建,使用vue2编写，支持跨小程序平台编译，目前已完美适配微信小程序。后端由基于springboot，融合spring全家桶，以及redis，websocket等技术，数据库采用mongodb。
 > 基于websocket实现用户间匹配对战，在超出匹配时间阈值后会自动安排虚拟用户进行对战。
 ## 项目截图
-
-<img src="./resource/img/index.png">
-<img src="./resource/img/poetryList.png">
-<img src="./resource/img/poetryDetail.png">
-<img src="./resource/img/multiplayerGames.png">
-<img src="./resource/img/singlegame.png">
-<img src="./resource/img/top.png">
-
+<div>
+<img src="./resource/img/index.png" width="300px">
+<img src="./resource/img/poetryList.png" width="300px">
+<img src="./resource/img/poetryDetail.png" width="300px">
+<img src="./resource/img/multiplayerGames.png" width="300px">
+<img src="./resource/img/singlegame.png" width="300px">
+<img src="./resource/img/top.png" width="300px">
+</div>
 ## 演示视频
 
 
