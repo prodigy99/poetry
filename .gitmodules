@@ -1,0 +1,6 @@
+[submodule "poetry-client"]
+	path = poetry-client
+	url = https://github.com/prodigy99/poetry-client.git
+[submodule "poetry-server"]
+	path = poetry-server
+	url = https://github.com/prodigy99/poetry-server.git
