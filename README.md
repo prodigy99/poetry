@@ -2,8 +2,8 @@
 古诗词问答类小程序,支持匹配对战
 
 ## 项目简介
-> 古诗词问答类小程序，前端由uniapp构建,使用vue2编写，支持跨小程序平台编译，目前已完美适配微信小程序。后端由基于springboot，融合spring全家桶，以及redis，websocket等技术，数据库采用mongodb。
-> 基于websocket实现用户间匹配对战，在超出匹配时间阈值后会自动安排虚拟用户进行对战。
+> 古诗词问答类小程序，前端由uniapp构建,使用vue2编写，支持跨小程序平台编译，已完美适配微信小程序。后端由基于springboot，融合spring全家桶，以及redis，websocket等技术，数据库采用mongodb。
+> 基于websocket实现用户间匹配对战，在超出匹配时间阈值后会自动安排虚拟用户进行对战。题目由数据库中的古诗数据自动生成。
 ## 项目截图
 <div>
 <img src="./resource/img/index.png" width="300px">
